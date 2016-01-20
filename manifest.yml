@@ -8,8 +8,8 @@ declared-services:
     plan: tiered
 applications:
 - disk_quota: 1024M
-  host: talent-manager
-  name: talent-manager
+  host: talent-manager-2
+  name: talent-manager-2
   path: ./webStarterApp.war
   instances: 1
   memory: 512M
